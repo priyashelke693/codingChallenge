@@ -1,4 +1,4 @@
-# codingChallenge
+# CodingChallenge
 
 #Entrata-Assignment
 Pre- requsites :-
