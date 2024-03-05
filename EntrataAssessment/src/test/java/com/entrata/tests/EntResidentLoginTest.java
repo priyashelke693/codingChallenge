@@ -35,10 +35,10 @@ public final class EntResidentLoginTest extends EntBaseClass {
 	@DataProvider
 	public Object[][] getDetails() {
 		Object[][] details = new Object[1][5];
-		details[0][0] = "QA";
-		details[0][1] = "TEST@gmail.com";
-		details[0][2] = "pune";
-		details[0][3] = "www.google.com";
+		details[0][0] = "QA Tester";
+		details[0][1] = "Testing@gmail.com";
+		details[0][2] = "Pune";
+		details[0][3] = "www.test.com";
 		details[0][4] = "This is the test text message";
 
 		return details;
