@@ -13,3 +13,4 @@ Steps to execute : -
 4. Run - Maven Test
 
 This is executable with the dependencies mentioned in the pom.xml
+5. For running all test cases used testng.xml 
